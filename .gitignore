@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+tabla.csv
+tabla_ipv.csv
+subasta.csv
+
+

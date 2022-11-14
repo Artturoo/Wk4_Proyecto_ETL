@@ -1,0 +1,425 @@
+Provincias,Periodo,Total,ciudades2_id
+Total,2021,47.385.107,0
+Total,2020,47.450.795,0
+Total,2019,47.026.208,0
+Total,2018,46.722.980,0
+Total,2017,46.572.132,0
+Total,2016,46.557.008,0
+Total,2015,46.624.382,0
+Total,2014,46.771.341,0
+ Albacete,2021,386.464,6
+ Albacete,2020,388.270,6
+ Albacete,2019,388.167,6
+ Albacete,2018,388.786,6
+ Albacete,2017,390.032,6
+ Albacete,2016,392.118,6
+ Albacete,2015,394.580,6
+ Albacete,2014,396.987,6
+ Alicante/Alacant,2021,1.881.762,8
+ Alicante/Alacant,2020,1.879.888,8
+ Alicante/Alacant,2019,1.858.683,8
+ Alicante/Alacant,2018,1.838.819,8
+ Alicante/Alacant,2017,1.825.332,8
+ Alicante/Alacant,2016,1.836.459,8
+ Alicante/Alacant,2015,1.855.047,8
+ Alicante/Alacant,2014,1.868.438,8
+ Almería,2021,731.792,1
+ Almería,2020,727.945,1
+ Almería,2019,716.820,1
+ Almería,2018,709.340,1
+ Almería,2017,706.672,1
+ Almería,2016,704.297,1
+ Almería,2015,701.211,1
+ Almería,2014,701.688,1
+ Araba/Álava,2021,333.626,13
+ Araba/Álava,2020,333.940,13
+ Araba/Álava,2019,331.549,13
+ Araba/Álava,2018,328.868,13
+ Araba/Álava,2017,326.574,13
+ Araba/Álava,2016,324.126,13
+ Araba/Álava,2015,323.648,13
+ Araba/Álava,2014,321.932,13
+ Asturias,2021,1.011.792,3
+ Asturias,2020,1.018.784,3
+ Asturias,2019,1.022.800,3
+ Asturias,2018,1.028.244,3
+ Asturias,2017,1.034.960,3
+ Asturias,2016,1.042.608,3
+ Asturias,2015,1.051.229,3
+ Asturias,2014,1.061.756,3
+ Ávila,2021,158.421,5
+ Ávila,2020,157.664,5
+ Ávila,2019,157.640,5
+ Ávila,2018,158.498,5
+ Ávila,2017,160.700,5
+ Ávila,2016,162.514,5
+ Ávila,2015,164.925,5
+ Ávila,2014,167.015,5
+ Badajoz,2021,669.943,9
+ Badajoz,2020,672.137,9
+ Badajoz,2019,673.559,9
+ Badajoz,2018,676.376,9
+ Badajoz,2017,679.884,9
+ Badajoz,2016,684.113,9
+ Badajoz,2015,686.730,9
+ Badajoz,2014,690.929,9
+" Balears, Illes",2021,1.173.008,0
+" Balears, Illes",2020,1.171.543,0
+" Balears, Illes",2019,1.149.460,0
+" Balears, Illes",2018,1.128.908,0
+" Balears, Illes",2017,1.115.999,0
+" Balears, Illes",2016,1.107.220,0
+" Balears, Illes",2015,1.104.479,0
+" Balears, Illes",2014,1.103.442,0
+ Barcelona,2021,5.714.730,7
+ Barcelona,2020,5.743.402,7
+ Barcelona,2019,5.664.579,7
+ Barcelona,2018,5.609.350,7
+ Barcelona,2017,5.576.037,7
+ Barcelona,2016,5.542.680,7
+ Barcelona,2015,5.523.922,7
+ Barcelona,2014,5.523.784,7
+ Bizkaia,2021,1.154.334,13
+ Bizkaia,2020,1.159.443,13
+ Bizkaia,2019,1.152.651,13
+ Bizkaia,2018,1.149.628,13
+ Bizkaia,2017,1.148.302,13
+ Bizkaia,2016,1.147.576,13
+ Bizkaia,2015,1.148.775,13
+ Bizkaia,2014,1.151.905,13
+ Burgos,2021,356.055,5
+ Burgos,2020,357.650,5
+ Burgos,2019,356.958,5
+ Burgos,2018,357.070,5
+ Burgos,2017,358.171,5
+ Burgos,2016,360.995,5
+ Burgos,2015,364.002,5
+ Burgos,2014,366.900,5
+ Cáceres,2021,389.558,9
+ Cáceres,2020,391.850,9
+ Cáceres,2019,394.151,9
+ Cáceres,2018,396.487,9
+ Cáceres,2017,400.036,9
+ Cáceres,2016,403.665,9
+ Cáceres,2015,406.267,9
+ Cáceres,2014,408.703,9
+ Cádiz,2021,1.245.960,1
+ Cádiz,2020,1.244.049,1
+ Cádiz,2019,1.240.155,1
+ Cádiz,2018,1.238.714,1
+ Cádiz,2017,1.239.435,1
+ Cádiz,2016,1.239.889,1
+ Cádiz,2015,1.240.284,1
+ Cádiz,2014,1.240.175,1
+ Cantabria,2021,584.507,4
+ Cantabria,2020,582.905,4
+ Cantabria,2019,581.078,4
+ Cantabria,2018,580.229,4
+ Cantabria,2017,580.295,4
+ Cantabria,2016,582.206,4
+ Cantabria,2015,585.179,4
+ Cantabria,2014,588.656,4
+ Castellón/Castelló,2021,587.064,8
+ Castellón/Castelló,2020,585.590,8
+ Castellón/Castelló,2019,579.962,8
+ Castellón/Castelló,2018,576.898,8
+ Castellón/Castelló,2017,575.470,8
+ Castellón/Castelló,2016,579.245,8
+ Castellón/Castelló,2015,582.327,8
+ Castellón/Castelló,2014,587.508,8
+ Ciudad Real,2021,492.591,6
+ Ciudad Real,2020,495.045,6
+ Ciudad Real,2019,495.761,6
+ Ciudad Real,2018,499.100,6
+ Ciudad Real,2017,502.578,6
+ Ciudad Real,2016,506.888,6
+ Ciudad Real,2015,513.713,6
+ Ciudad Real,2014,519.613,6
+ Córdoba,2021,776.789,1
+ Córdoba,2020,781.451,1
+ Córdoba,2019,782.979,1
+ Córdoba,2018,785.240,1
+ Córdoba,2017,788.219,1
+ Córdoba,2016,791.610,1
+ Córdoba,2015,795.611,1
+ Córdoba,2014,799.402,1
+" Coruña, A",2021,1.120.134,10
+" Coruña, A",2020,1.121.815,10
+" Coruña, A",2019,1.119.596,10
+" Coruña, A",2018,1.119.351,10
+" Coruña, A",2017,1.120.294,10
+" Coruña, A",2016,1.122.799,10
+" Coruña, A",2015,1.127.196,10
+" Coruña, A",2014,1.132.735,10
+ Cuenca,2021,195.516,6
+ Cuenca,2020,196.139,6
+ Cuenca,2019,196.329,6
+ Cuenca,2018,197.222,6
+ Cuenca,2017,198.718,6
+ Cuenca,2016,201.071,6
+ Cuenca,2015,203.841,6
+ Cuenca,2014,207.449,6
+ Gipuzkoa,2021,726.033,13
+ Gipuzkoa,2020,727.121,13
+ Gipuzkoa,2019,723.576,13
+ Gipuzkoa,2018,720.592,13
+ Gipuzkoa,2017,719.282,13
+ Gipuzkoa,2016,717.832,13
+ Gipuzkoa,2015,716.834,13
+ Gipuzkoa,2014,715.148,13
+ Girona,2021,786.596,7
+ Girona,2020,781.788,7
+ Girona,2019,771.044,7
+ Girona,2018,761.947,7
+ Girona,2017,755.716,7
+ Girona,2016,753.576,7
+ Girona,2015,753.054,7
+ Girona,2014,756.156,7
+ Granada,2021,921.338,1
+ Granada,2020,919.168,1
+ Granada,2019,914.678,1
+ Granada,2018,912.075,1
+ Granada,2017,912.938,1
+ Granada,2016,915.392,1
+ Granada,2015,917.297,1
+ Granada,2014,919.455,1
+ Guadalajara,2021,265.588,6
+ Guadalajara,2020,261.995,6
+ Guadalajara,2019,257.762,6
+ Guadalajara,2018,254.308,6
+ Guadalajara,2017,253.310,6
+ Guadalajara,2016,252.882,6
+ Guadalajara,2015,253.686,6
+ Guadalajara,2014,255.426,6
+ Huelva,2021,525.835,1
+ Huelva,2020,524.278,1
+ Huelva,2019,521.870,1
+ Huelva,2018,519.932,1
+ Huelva,2017,518.930,1
+ Huelva,2016,519.596,1
+ Huelva,2015,520.017,1
+ Huelva,2014,519.229,1
+ Huesca,2021,224.264,2
+ Huesca,2020,222.687,2
+ Huesca,2019,220.461,2
+ Huesca,2018,219.345,2
+ Huesca,2017,219.702,2
+ Huesca,2016,221.079,2
+ Huesca,2015,222.909,2
+ Huesca,2014,224.909,2
+ Jaén,2021,627.190,1
+ Jaén,2020,631.381,1
+ Jaén,2019,633.564,1
+ Jaén,2018,638.099,1
+ Jaén,2017,643.484,1
+ Jaén,2016,648.250,1
+ Jaén,2015,654.170,1
+ Jaén,2014,659.033,1
+ León,2021,451.706,5
+ León,2020,456.439,5
+ León,2019,460.001,5
+ León,2018,463.746,5
+ León,2017,468.316,5
+ León,2016,473.604,5
+ León,2015,479.395,5
+ León,2014,484.694,5
+ Lleida,2021,439.727,7
+ Lleida,2020,438.517,7
+ Lleida,2019,434.930,7
+ Lleida,2018,432.866,7
+ Lleida,2017,432.384,7
+ Lleida,2016,434.041,7
+ Lleida,2015,436.029,7
+ Lleida,2014,438.001,7
+ Lugo,2021,326.013,10
+ Lugo,2020,327.946,10
+ Lugo,2019,329.587,10
+ Lugo,2018,331.327,10
+ Lugo,2017,333.634,10
+ Lugo,2016,336.527,10
+ Lugo,2015,339.386,10
+ Lugo,2014,342.748,10
+ Madrid,2021,6.751.251,11
+ Madrid,2020,6.779.888,11
+ Madrid,2019,6.663.394,11
+ Madrid,2018,6.578.079,11
+ Madrid,2017,6.507.184,11
+ Madrid,2016,6.466.996,11
+ Madrid,2015,6.436.996,11
+ Madrid,2014,6.454.440,11
+ Málaga,2021,1.695.651,1
+ Málaga,2020,1.685.920,1
+ Málaga,2019,1.661.785,1
+ Málaga,2018,1.641.121,1
+ Málaga,2017,1.630.615,1
+ Málaga,2016,1.629.298,1
+ Málaga,2015,1.628.973,1
+ Málaga,2014,1.621.968,1
+ Murcia,2021,1.518.486,0
+ Murcia,2020,1.511.251,0
+ Murcia,2019,1.493.898,0
+ Murcia,2018,1.478.509,0
+ Murcia,2017,1.470.273,0
+ Murcia,2016,1.464.847,0
+ Murcia,2015,1.467.288,0
+ Murcia,2014,1.466.818,0
+ Navarra,2021,661.537,12
+ Navarra,2020,661.197,12
+ Navarra,2019,654.214,12
+ Navarra,2018,647.554,12
+ Navarra,2017,643.234,12
+ Navarra,2016,640.647,12
+ Navarra,2015,640.476,12
+ Navarra,2014,640.790,12
+ Ourense,2021,305.223,10
+ Ourense,2020,306.650,10
+ Ourense,2019,307.651,10
+ Ourense,2018,309.293,10
+ Ourense,2017,311.680,10
+ Ourense,2016,314.853,10
+ Ourense,2015,318.391,10
+ Ourense,2014,322.293,10
+ Palencia,2021,159.123,5
+ Palencia,2020,160.321,5
+ Palencia,2019,160.980,5
+ Palencia,2018,162.035,5
+ Palencia,2017,163.390,5
+ Palencia,2016,164.644,5
+ Palencia,2015,166.035,5
+ Palencia,2014,167.609,5
+" Palmas, Las",2021,1.128.539,0
+" Palmas, Las",2020,1.131.065,0
+" Palmas, Las",2019,1.120.406,0
+" Palmas, Las",2018,1.109.175,0
+" Palmas, Las",2017,1.100.480,0
+" Palmas, Las",2016,1.097.800,0
+" Palmas, Las",2015,1.098.406,0
+" Palmas, Las",2014,1.100.027,0
+ Pontevedra,2021,944.275,10
+ Pontevedra,2020,945.408,10
+ Pontevedra,2019,942.665,10
+ Pontevedra,2018,941.772,10
+ Pontevedra,2017,942.731,10
+ Pontevedra,2016,944.346,10
+ Pontevedra,2015,947.374,10
+ Pontevedra,2014,950.919,10
+" Rioja, La",2021,319.796,14
+" Rioja, La",2020,319.914,14
+" Rioja, La",2019,316.798,14
+" Rioja, La",2018,315.675,14
+" Rioja, La",2017,315.381,14
+" Rioja, La",2016,315.794,14
+" Rioja, La",2015,317.053,14
+" Rioja, La",2014,319.002,14
+ Salamanca,2021,327.338,5
+ Salamanca,2020,329.245,5
+ Salamanca,2019,330.119,5
+ Salamanca,2018,331.473,5
+ Salamanca,2017,333.603,5
+ Salamanca,2016,335.985,5
+ Salamanca,2015,339.395,5
+ Salamanca,2014,342.459,5
+ Santa Cruz de Tenerife,2021,1.044.405,0
+ Santa Cruz de Tenerife,2020,1.044.887,0
+ Santa Cruz de Tenerife,2019,1.032.983,0
+ Santa Cruz de Tenerife,2018,1.018.510,0
+ Santa Cruz de Tenerife,2017,1.007.641,0
+ Santa Cruz de Tenerife,2016,1.004.124,0
+ Santa Cruz de Tenerife,2015,1.001.900,0
+ Santa Cruz de Tenerife,2014,1.004.788,0
+ Segovia,2021,153.663,11
+ Segovia,2020,153.478,11
+ Segovia,2019,153.129,11
+ Segovia,2018,153.342,11
+ Segovia,2017,154.184,11
+ Segovia,2016,155.652,11
+ Segovia,2015,157.570,11
+ Segovia,2014,159.303,11
+ Sevilla,2021,1.947.852,1
+ Sevilla,2020,1.950.219,1
+ Sevilla,2019,1.942.389,1
+ Sevilla,2018,1.939.887,1
+ Sevilla,2017,1.939.527,1
+ Sevilla,2016,1.939.775,1
+ Sevilla,2015,1.941.480,1
+ Sevilla,2014,1.941.355,1
+ Soria,2021,88.747,5
+ Soria,2020,88.884,5
+ Soria,2019,88.636,5
+ Soria,2018,88.600,5
+ Soria,2017,88.903,5
+ Soria,2016,90.040,5
+ Soria,2015,91.006,5
+ Soria,2014,92.221,5
+ Tarragona,2021,822.309,7
+ Tarragona,2020,816.772,7
+ Tarragona,2019,804.664,7
+ Tarragona,2018,795.902,7
+ Tarragona,2017,791.693,7
+ Tarragona,2016,792.299,7
+ Tarragona,2015,795.101,7
+ Tarragona,2014,800.962,7
+ Teruel,2021,134.545,2
+ Teruel,2020,134.176,2
+ Teruel,2019,134.137,2
+ Teruel,2018,134.572,2
+ Teruel,2017,135.562,2
+ Teruel,2016,136.977,2
+ Teruel,2015,138.932,2
+ Teruel,2014,140.365,2
+ Toledo,2021,709.403,6
+ Toledo,2020,703.772,6
+ Toledo,2019,694.844,6
+ Toledo,2018,687.391,6
+ Toledo,2017,686.841,6
+ Toledo,2016,688.672,6
+ Toledo,2015,693.371,6
+ Toledo,2014,699.136,6
+ Valencia/València,2021,2.589.312,8
+ Valencia/València,2020,2.591.875,8
+ Valencia/València,2019,2.565.124,8
+ Valencia/València,2018,2.547.986,8
+ Valencia/València,2017,2.540.707,8
+ Valencia/València,2016,2.544.264,8
+ Valencia/València,2015,2.543.315,8
+ Valencia/València,2014,2.548.898,8
+ Valladolid,2021,519.361,5
+ Valladolid,2020,520.649,5
+ Valladolid,2019,519.546,5
+ Valladolid,2018,519.851,5
+ Valladolid,2017,521.130,5
+ Valladolid,2016,523.679,5
+ Valladolid,2015,526.288,5
+ Valladolid,2014,529.157,5
+ Zamora,2021,168.725,5
+ Zamora,2020,170.588,5
+ Zamora,2019,172.539,5
+ Zamora,2018,174.549,5
+ Zamora,2017,177.404,5
+ Zamora,2016,180.406,5
+ Zamora,2015,183.436,5
+ Zamora,2014,185.432,5
+ Zaragoza,2021,967.452,2
+ Zaragoza,2020,972.528,2
+ Zaragoza,2019,964.693,2
+ Zaragoza,2018,954.811,2
+ Zaragoza,2017,953.486,2
+ Zaragoza,2016,950.507,2
+ Zaragoza,2015,956.006,2
+ Zaragoza,2014,960.111,2
+ Ceuta,2021,83.517,0
+ Ceuta,2020,84.202,0
+ Ceuta,2019,84.777,0
+ Ceuta,2018,85.144,0
+ Ceuta,2017,84.959,0
+ Ceuta,2016,84.519,0
+ Ceuta,2015,84.263,0
+ Ceuta,2014,84.963,0
+ Melilla,2021,86.261,0
+ Melilla,2020,87.076,0
+ Melilla,2019,86.487,0
+ Melilla,2018,86.384,0
+ Melilla,2017,86.120,0
+ Melilla,2016,86.026,0
+ Melilla,2015,85.584,0
+ Melilla,2014,84.509,0
