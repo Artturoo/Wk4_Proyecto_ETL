@@ -1,0 +1,501 @@
+provincia,id,Provincia_id,Comunidad_Autonoma
+Albacete,1,6,Castilla La Mancha
+Lleida,2,7,Cataluña
+Málaga,3,1,Andalucia
+Almería,4,1,Andalucia
+Valencia/València,5,8,Valencia
+Toledo,6,6,Castilla La Mancha
+Barcelona,7,7,Cataluña
+Santa Cruz de Tenerife,8,0,Unknown
+Valencia/València,9,8,Valencia
+Madrid,10,11,Madrid
+Valencia/València,11,8,Valencia
+Barcelona,12,7,Cataluña
+Lleida,13,7,Cataluña
+Girona,14,7,Cataluña
+Murcia,15,0,Unknown
+Asturias,16,3,Asturias
+Santa Cruz de Tenerife,17,0,Unknown
+Pontevedra,18,10,Galicia
+Alicante/Alacant,19,8,Valencia
+Murcia,20,0,Unknown
+Asturias,21,3,Asturias
+Albacete,22,6,Castilla La Mancha
+Santa Cruz de Tenerife,23,0,Unknown
+Murcia,24,0,Unknown
+Huesca,25,2,Aragon
+Granada,26,1,Andalucia
+Murcia,27,0,Unknown
+Alicante/Alacant,28,8,Valencia
+Valencia/València,29,8,Valencia
+Pontevedra,30,10,Galicia
+Jaén,31,1,Andalucia
+Castellón/Castelló,32,8,Valencia
+Las Palmas,33,0,Unknown
+Las Palmas,34,0,Unknown
+Madrid,35,11,Madrid
+Madrid,36,11,Madrid
+Asturias,37,3,Asturias
+Tarragona,38,7,Cataluña
+Girona,39,7,Cataluña
+Almería,40,1,Andalucia
+Sevilla,41,1,Andalucia
+Lleida,42,7,Cataluña
+Tarragona,43,7,Cataluña
+Las Palmas,44,0,Unknown
+Madrid,45,11,Madrid
+Almería,46,1,Andalucia
+Cádiz,47,1,Andalucia
+Las Palmas,48,0,Unknown
+A Coruña,49,10,Galicia
+Murcia,50,0,Unknown
+A Coruña,51,10,Galicia
+Barcelona,52,7,Cataluña
+Málaga,53,1,Andalucia
+Madrid,54,11,Madrid
+Lleida,55,7,Cataluña
+Alicante/Alacant,56,8,Valencia
+Cuenca,57,6,Castilla La Mancha
+Granada,58,1,Andalucia
+Almería,59,1,Andalucia
+Málaga,60,1,Andalucia
+Barcelona,61,7,Cataluña
+Navarra,62,12,Navarra
+Valencia/València,63,8,Valencia
+Asturias,64,3,Asturias
+Barcelona,65,7,Cataluña
+Barcelona,66,7,Cataluña
+Castellón/Castelló,67,8,Valencia
+Tarragona,68,7,Cataluña
+Madrid,69,11,Madrid
+Huelva,70,1,Andalucia
+Madrid,71,11,Madrid
+Sevilla,72,1,Andalucia
+Alicante/Alacant,73,8,Valencia
+Madrid,74,11,Madrid
+Santa Cruz de Tenerife,75,0,Unknown
+Illes Balears,76,0,Unknown
+Cáceres,77,9,Extremadura
+Albacete,78,6,Castilla La Mancha
+Barcelona,79,7,Cataluña
+Tarragona,80,7,Cataluña
+Bizkaia,81,13,Pais Vasco
+Almería,82,1,Andalucia
+Tarragona,83,7,Cataluña
+Barcelona,84,7,Cataluña
+Murcia,85,0,Unknown
+Tarragona,86,7,Cataluña
+Alicante/Alacant,87,8,Valencia
+Sevilla,88,1,Andalucia
+Alicante/Alacant,89,8,Valencia
+Sevilla,90,1,Andalucia
+Asturias,91,3,Asturias
+Granada,92,1,Andalucia
+Tarragona,93,7,Cataluña
+Valencia/València,94,8,Valencia
+Madrid,95,11,Madrid
+Cantabria,96,4,Cantabria
+Cádiz,97,1,Andalucia
+Tarragona,98,7,Cataluña
+Barcelona,99,7,Cataluña
+Illes Balears,100,0,Unknown
+Murcia,101,0,Unknown
+Sevilla,102,1,Andalucia
+Madrid,103,11,Madrid
+Tarragona,104,7,Cataluña
+Madrid,105,11,Madrid
+Barcelona,106,7,Cataluña
+Cádiz,107,1,Andalucia
+Barcelona,108,7,Cataluña
+Murcia,109,0,Unknown
+Toledo,110,6,Castilla La Mancha
+Cádiz,111,1,Andalucia
+Madrid,112,11,Madrid
+Zaragoza,113,2,Aragon
+Barcelona,114,7,Cataluña
+Barcelona,115,7,Cataluña
+Valencia/València,116,8,Valencia
+Girona,117,7,Cataluña
+Barcelona,118,7,Cataluña
+Madrid,119,11,Madrid
+Valencia/València,120,8,Valencia
+Madrid,121,11,Madrid
+Santa Cruz de Tenerife,122,0,Unknown
+Zaragoza,123,2,Aragon
+Córdoba,124,1,Andalucia
+Murcia,125,0,Unknown
+Tarragona,126,7,Cataluña
+Huesca,127,2,Aragon
+Ciudad Real,128,6,Castilla La Mancha
+Málaga,129,1,Andalucia
+Las Palmas,130,0,Unknown
+Cantabria,131,4,Cantabria
+Córdoba,132,1,Andalucia
+Barcelona,133,7,Cataluña
+Barcelona,134,7,Cataluña
+Murcia,135,0,Unknown
+Las Palmas,136,0,Unknown
+Illes Balears,137,0,Unknown
+Cantabria,138,4,Cantabria
+Jaén,139,1,Andalucia
+Huelva,140,1,Andalucia
+Madrid,141,11,Madrid
+Barcelona,142,7,Cataluña
+Bizkaia,143,13,Pais Vasco
+Zaragoza,144,2,Aragon
+Almería,145,1,Andalucia
+Barcelona,146,7,Cataluña
+Sevilla,147,1,Andalucia
+Tarragona,148,7,Cataluña
+Murcia,149,0,Unknown
+Sevilla,150,1,Andalucia
+Valencia/València,151,8,Valencia
+Almería,152,1,Andalucia
+Málaga,153,1,Andalucia
+Toledo,154,6,Castilla La Mancha
+León,155,5,Castilla y Leon
+Burgos,156,5,Castilla y Leon
+Almería,157,1,Andalucia
+Bizkaia,158,13,Pais Vasco
+Córdoba,159,1,Andalucia
+Tarragona,160,7,Cataluña
+Cuenca,161,6,Castilla La Mancha
+Huelva,162,1,Andalucia
+Las Palmas,163,0,Unknown
+Murcia,164,0,Unknown
+Valencia/València,165,8,Valencia
+Granada,166,1,Andalucia
+Granada,167,1,Andalucia
+Almería,168,1,Andalucia
+Granada,169,1,Andalucia
+Girona,170,7,Cataluña
+Lleida,171,7,Cataluña
+Alicante/Alacant,172,8,Valencia
+Tarragona,173,7,Cataluña
+Valencia/València,174,8,Valencia
+Málaga,175,1,Andalucia
+Asturias,176,3,Asturias
+Madrid,177,11,Madrid
+Málaga,178,1,Andalucia
+Murcia,179,0,Unknown
+Jaén,180,1,Andalucia
+Almería,181,1,Andalucia
+Las Palmas,182,0,Unknown
+Alicante/Alacant,183,8,Valencia
+Barcelona,184,7,Cataluña
+Madrid,185,11,Madrid
+Lugo,186,10,Galicia
+Málaga,187,1,Andalucia
+Huesca,188,2,Aragon
+Lleida,189,7,Cataluña
+Huesca,190,2,Aragon
+Alicante/Alacant,191,8,Valencia
+Huesca,192,2,Aragon
+Barcelona,193,7,Cataluña
+Badajoz,194,9,Extremadura
+Sevilla,195,1,Andalucia
+Sevilla,196,1,Andalucia
+Albacete,197,6,Castilla La Mancha
+Barcelona,198,7,Cataluña
+Valencia,199,8,Valencia
+Huelva,200,1,Andalucia
+Santa Cruz de Tenerife,201,0,Unknown
+Madrid,202,11,Madrid
+Madrid,203,11,Madrid
+Cádiz,204,1,Andalucia
+Salamanca,205,5,Castilla y Leon
+Pontevedra,206,10,Galicia
+Girona,207,7,Cataluña
+Tarragona,208,7,Cataluña
+Jaén,209,1,Andalucia
+Murcia,210,0,Unknown
+Barcelona,211,7,Cataluña
+Asturias,212,3,Asturias
+Murcia,213,0,Unknown
+Valencia/València,214,8,Valencia
+Guadalajara,215,6,Castilla La Mancha
+Asturias,216,3,Asturias
+Cuenca,217,6,Castilla La Mancha
+Barcelona,218,7,Cataluña
+Asturias,219,3,Asturias
+Asturias,220,3,Asturias
+Alicante/Alacant,221,8,Valencia
+Asturias,222,3,Asturias
+Girona,223,7,Cataluña
+Palencia,224,5,Castilla y Leon
+Málaga,225,1,Andalucia
+Barcelona,226,7,Cataluña
+Asturias,227,3,Asturias
+Asturias,228,3,Asturias
+Valladolid,229,5,Castilla y Leon
+Alicante/Alacant,230,8,Valencia
+Zamora,231,5,Castilla y Leon
+Madrid,232,11,Madrid
+Valencia/València,233,8,Valencia
+Barcelona,234,7,Cataluña
+León,235,5,Castilla y Leon
+Santa Cruz de Tenerife,236,0,Unknown
+Navarra,237,12,Navarra
+Guadalajara,238,6,Castilla La Mancha
+Cádiz,239,1,Andalucia
+Toledo,240,6,Castilla La Mancha
+Castellón/Castelló,241,8,Valencia
+Zaragoza,242,2,Aragon
+Sevilla,243,1,Andalucia
+Ávila,244,5,Castilla y Leon
+Madrid,245,11,Madrid
+Barcelona,246,7,Cataluña
+Albacete,247,6,Castilla La Mancha
+Asturias,248,3,Asturias
+Madrid,249,11,Madrid
+Albacete,250,6,Castilla La Mancha
+Zaragoza,251,2,Aragon
+Alicante/Alacant,252,8,Valencia
+Murcia,253,0,Unknown
+Málaga,254,1,Andalucia
+Barcelona,255,7,Cataluña
+Asturias,256,3,Asturias
+Toledo,257,6,Castilla La Mancha
+Lleida,258,7,Cataluña
+Barcelona,259,7,Cataluña
+Sevilla,260,1,Andalucia
+Bizkaia,261,13,Pais Vasco
+Madrid,262,11,Madrid
+Murcia,263,0,Unknown
+Valencia/València,264,8,Valencia
+Pontevedra,265,10,Galicia
+Granada,266,1,Andalucia
+Asturias,267,3,Asturias
+Alicante/Alacant,268,8,Valencia
+Córdoba,269,1,Andalucia
+Alicante/Alacant,270,8,Valencia
+Alicante/Alacant,271,8,Valencia
+Alicante/Alacant,272,8,Valencia
+Alicante/Alacant,273,8,Valencia
+Alicante/Alacant,274,8,Valencia
+Alicante/Alacant,275,8,Valencia
+Madrid,276,11,Madrid
+Málaga,277,1,Andalucia
+Las Palmas,278,0,Unknown
+Valencia/València,279,8,Valencia
+Barcelona,280,7,Cataluña
+A Coruña,281,10,Galicia
+Alicante/Alacant,282,8,Valencia
+Zaragoza,283,2,Aragon
+Gipuzkoa,284,13,Pais Vasco
+Madrid,285,11,Madrid
+Barcelona,286,7,Cataluña
+Palencia,287,5,Castilla y Leon
+Pontevedra,288,10,Galicia
+Alicante/Alacant,289,8,Valencia
+Alicante/Alacant,290,8,Valencia
+Toledo,291,6,Castilla La Mancha
+A Coruña,292,10,Galicia
+Asturias,293,3,Asturias
+Cantabria,294,4,Cantabria
+Barcelona,295,7,Cataluña
+Valladolid,296,5,Castilla y Leon
+Cádiz,297,1,Andalucia
+Valladolid,298,5,Castilla y Leon
+Barcelona,299,7,Cataluña
+Málaga,300,1,Andalucia
+Asturias,301,3,Asturias
+Zaragoza,302,2,Aragon
+Tarragona,303,7,Cataluña
+Tarragona,304,7,Cataluña
+Valencia/València,305,8,Valencia
+Bizkaia,306,13,Pais Vasco
+Barcelona,307,7,Cataluña
+Zaragoza,308,2,Aragon
+Las Palmas,309,0,Unknown
+Alicante/Alacant,310,8,Valencia
+León,311,5,Castilla y Leon
+Valencia/València,312,8,Valencia
+Málaga,313,1,Andalucia
+Castellón/Castelló,314,8,Valencia
+Valencia/València,315,8,Valencia
+Alicante/Alacant,316,8,Valencia
+Alicante/Alacant,317,8,Valencia
+Madrid,318,11,Madrid
+Málaga,319,1,Andalucia
+Castellón/Castelló,320,8,Valencia
+Sevilla,321,1,Andalucia
+León,322,5,Castilla y Leon
+Valladolid,323,5,Castilla y Leon
+Lleida,324,7,Cataluña
+Zaragoza,325,2,Aragon
+Córdoba,326,1,Andalucia
+Lleida,327,7,Cataluña
+Barcelona,328,7,Cataluña
+Alicante/Alacant,329,8,Valencia
+Barcelona,330,7,Cataluña
+Alicante/Alacant,331,8,Valencia
+Almería,332,1,Andalucia
+Illes Balears,333,0,Unknown
+Barcelona,334,7,Cataluña
+Málaga,335,1,Andalucia
+Sevilla,336,1,Andalucia
+Asturias,337,3,Asturias
+Valencia/València,338,8,Valencia
+Ciudad Real,339,6,Castilla La Mancha
+Barcelona,340,7,Cataluña
+Alicante/Alacant,341,8,Valencia
+Madrid,342,11,Madrid
+Alicante/Alacant,343,8,Valencia
+Barcelona,344,7,Cataluña
+Madrid,345,11,Madrid
+Almería,346,1,Andalucia
+Jaén,347,1,Andalucia
+Murcia,348,0,Unknown
+Murcia,349,0,Unknown
+León,350,5,Castilla y Leon
+Palencia,351,5,Castilla y Leon
+Valencia/València,352,8,Valencia
+Madrid,353,11,Madrid
+Girona,354,7,Cataluña
+Huelva,355,1,Andalucia
+Granada,356,1,Andalucia
+Madrid,357,11,Madrid
+Murcia,358,0,Unknown
+Girona,359,7,Cataluña
+Cádiz,360,1,Andalucia
+Alicante/Alacant,361,8,Valencia
+Barcelona,362,7,Cataluña
+Barcelona,363,7,Cataluña
+Barcelona,364,7,Cataluña
+Sevilla,365,1,Andalucia
+Madrid,366,11,Madrid
+Málaga,367,1,Andalucia
+Almería,368,1,Andalucia
+Alicante/Alacant,369,8,Valencia
+Murcia,370,0,Unknown
+Madrid,371,11,Madrid
+Alicante/Alacant,372,8,Valencia
+Girona,373,7,Cataluña
+Madrid,374,11,Madrid
+Zaragoza,375,2,Aragon
+Madrid,376,11,Madrid
+Lleida,377,7,Cataluña
+La Rioja,378,14,La rioja
+Valencia/València,379,8,Valencia
+Tarragona,380,7,Cataluña
+Asturias,381,3,Asturias
+Valladolid,382,5,Castilla y Leon
+Araba/Álava,383,13,Pais Vasco
+Madrid,384,11,Madrid
+Madrid,385,11,Madrid
+Toledo,386,6,Castilla La Mancha
+Murcia,387,0,Unknown
+Barcelona,388,7,Cataluña
+Alicante/Alacant,389,8,Valencia
+Ourense,390,10,Galicia
+Asturias,391,3,Asturias
+Tarragona,392,7,Cataluña
+Valencia/València,393,8,Valencia
+Almería,394,1,Andalucia
+Murcia,395,0,Unknown
+Guadalajara,396,6,Castilla La Mancha
+Valencia/València,397,8,Valencia
+Girona,398,7,Cataluña
+Salamanca,399,5,Castilla y Leon
+Murcia,400,0,Unknown
+Castellón/Castelló,401,8,Valencia
+Barcelona,402,7,Cataluña
+Murcia,403,0,Unknown
+Valencia/València,404,8,Valencia
+Cádiz,405,1,Andalucia
+Valencia/València,406,8,Valencia
+Tarragona,407,7,Cataluña
+Valladolid,408,5,Castilla y Leon
+Illes Balears,409,0,Unknown
+Alicante/Alacant,410,8,Valencia
+Araba/Álava,411,13,Pais Vasco
+Cádiz,412,1,Andalucia
+Barcelona,413,7,Cataluña
+Barcelona,414,7,Cataluña
+Tarragona,415,7,Cataluña
+Tarragona,416,7,Cataluña
+Castellón/Castelló,417,8,Valencia
+Sevilla,418,1,Andalucia
+Sevilla,419,1,Andalucia
+Granada,420,1,Andalucia
+Almería,421,1,Andalucia
+Almería,422,1,Andalucia
+Sevilla,423,1,Andalucia
+Málaga,424,1,Andalucia
+Toledo,425,6,Castilla La Mancha
+Madrid,426,11,Madrid
+Almería,427,1,Andalucia
+Alicante/Alacant,428,8,Valencia
+Girona,429,7,Cataluña
+Murcia,430,0,Unknown
+Asturias,431,3,Asturias
+Tarragona,432,7,Cataluña
+Toledo,433,6,Castilla La Mancha
+Barcelona,434,7,Cataluña
+Cádiz,435,1,Andalucia
+Madrid,436,11,Madrid
+Madrid,437,11,Madrid
+Valladolid,438,5,Castilla y Leon
+La Rioja,439,14,La rioja
+Barcelona,440,7,Cataluña
+Castellón,441,8,Valencia
+Lleida,442,7,Cataluña
+Madrid,443,11,Madrid
+Madrid,444,11,Madrid
+Sevilla,445,1,Andalucia
+A Coruña,446,10,Galicia
+Sevilla,447,1,Andalucia
+Asturias,448,3,Asturias
+Madrid,449,11,Madrid
+Tarragona,450,7,Cataluña
+Málaga,451,1,Andalucia
+Barcelona,452,7,Cataluña
+Alicante/Alacant,453,8,Valencia
+Valladolid,454,5,Castilla y Leon
+Málaga,455,1,Andalucia
+Tarragona,456,7,Cataluña
+Pontevedra,457,10,Galicia
+Pontevedra,458,10,Galicia
+Ourense,459,10,Galicia
+Tarragona,460,7,Cataluña
+Castellón/Castelló,461,8,Valencia
+Barcelona,462,7,Cataluña
+Toledo,463,6,Castilla La Mancha
+Barcelona,464,7,Cataluña
+Jaén,465,1,Andalucia
+La Rioja,466,14,La rioja
+Málaga,467,1,Andalucia
+Jaén,468,1,Andalucia
+Murcia,469,0,Unknown
+Badajoz,470,9,Extremadura
+Barcelona,471,7,Cataluña
+Barcelona,472,7,Cataluña
+Málaga,473,1,Andalucia
+Málaga,474,1,Andalucia
+Toledo,475,6,Castilla La Mancha
+Lugo,476,10,Galicia
+Cantabria,477,4,Cantabria
+Tarragona,478,7,Cataluña
+Málaga,479,1,Andalucia
+Murcia,480,0,Unknown
+Jaén,481,1,Andalucia
+Tarragona,482,7,Cataluña
+Ciudad Real,483,6,Castilla La Mancha
+Lleida,484,7,Cataluña
+Bizkaia,485,13,Pais Vasco
+Barcelona,486,7,Cataluña
+Madrid,487,11,Madrid
+Granada,488,1,Andalucia
+Barcelona,489,7,Cataluña
+Albacete,490,6,Castilla La Mancha
+Las Palmas,491,0,Unknown
+Barcelona,492,7,Cataluña
+Lugo,493,10,Galicia
+Madrid,494,11,Madrid
+Toledo,495,6,Castilla La Mancha
+Valencia/València,496,8,Valencia
+Asturias,497,3,Asturias
+Guadalajara,498,6,Castilla La Mancha
+Zaragoza,499,2,Aragon
+Alicante/Alacant,500,8,Valencia
